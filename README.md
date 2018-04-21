@@ -16,9 +16,11 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <p>Here are the things I love to do the most : </p> 
 <ul>
 <li>Playing the saxophone</li>
-  <a href="
-<li></li>
-<li>Reading Adventure Books</li>
+<li>Listening to music</li>
 </ul>
+<br>
+  <p>Achievements:</p>
+    <ul>
+      <li>Getting a disticntion in SYF for band during primary school</li>
 </body>
 </html>
