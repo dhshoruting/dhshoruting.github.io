@@ -7,7 +7,7 @@ My Personal Portfolio Website
 </head>
 <body>
 <h1> All About Me</h1>
-<img src="photo.jpg" alt="A Picture of Me"/>
+<img src="Me.jpg" alt="A Picture of Me"/>
 <p>
 My name is Ho Ru Ting. I am a student of Dunman High School. Currently in 1st year high school. </p>
 <p>
