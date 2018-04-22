@@ -22,6 +22,7 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
   <p>Achievements:</p>
     <ul>
       <li>Getting a disticntion in SYF for band during primary school</li>
-        <a href="
+      <a href="https://www.youtube.com/watch?v=HPYmrapNgxo"> SYF Choice Piece</a>
+      <li>Achieving the score of 250 and above for PSLE</li>
 </body>
 </html>
