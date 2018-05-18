@@ -1,6 +1,6 @@
 My Personal Portfolio Website
 <!DOCTYPE html>
-<html>
+<html ⚡>
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
 <title> This is my website </title>
@@ -25,4 +25,7 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
       <a href="https://www.youtube.com/watch?v=HPYmrapNgxo"> SYF Choice Piece</a>
       <li>Achieving the score of 250 and above for PSLE</li>
 </body>
-</html>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+
+</html ⚡>
